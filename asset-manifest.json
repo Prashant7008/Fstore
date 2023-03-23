@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Fstore/static/css/main.3136520f.css",
+    "main.js": "/Fstore/static/js/main.021c8aad.js",
+    "static/js/787.3adb45fa.chunk.js": "/Fstore/static/js/787.3adb45fa.chunk.js",
+    "static/media/remixicon.svg?t=1590207869815": "/Fstore/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/about.png": "/Fstore/static/media/about.5cfaf8a99d5231051570.png",
+    "static/media/s22.png": "/Fstore/static/media/s22.249763241dd3f129989a.png",
+    "static/media/pizz3.png": "/Fstore/static/media/pizz3.2f180d0b672578522bdc.png",
+    "static/media/s11.png": "/Fstore/static/media/s11.f7547b6fb9ad65b4e6f3.png",
+    "static/media/remixicon.eot?t=1590207869815": "/Fstore/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/Fstore/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/cofee3.png": "/Fstore/static/media/cofee3.e4afb6671d4188447956.png",
+    "static/media/remixicon.woff?t=1590207869815": "/Fstore/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/remixicon.woff2?t=1590207869815": "/Fstore/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/testimonial01.png": "/Fstore/static/media/testimonial01.ef527bf36f2a27625c23.png",
+    "static/media/hero1.png": "/Fstore/static/media/hero1.497ad606d3fadb382b27.png",
+    "static/media/banner1.jpg": "/Fstore/static/media/banner1.822fce4b351a5146af9f.jpg",
+    "static/media/web-design1.jpg": "/Fstore/static/media/web-design1.eac631756b66e0e490fb.jpg",
+    "static/media/about-us.png": "/Fstore/static/media/about-us.7cee11852f1eba53f13f.png",
+    "static/media/web-development1.png": "/Fstore/static/media/web-development1.a5e3ae03623dcb71d2a0.png",
+    "static/media/pizza4.jpeg": "/Fstore/static/media/pizza4.e6baa78e938d05146af3.jpeg",
+    "static/media/ui-ux.png": "/Fstore/static/media/ui-ux.0366b465b35da2e796bb.png",
+    "static/media/coffee2.jpg": "/Fstore/static/media/coffee2.ca8d85cc23a722bb8b61.jpg",
+    "static/media/pizza2.jpeg": "/Fstore/static/media/pizza2.30dae40a54a6aa13d85e.jpeg",
+    "static/media/coffee.jpeg": "/Fstore/static/media/coffee.6b26122e992ca04ac40e.jpeg",
+    "static/media/pizza.jpeg": "/Fstore/static/media/pizza.952db1ff28d9dcfa698e.jpeg",
+    "static/media/s111.png": "/Fstore/static/media/s111.b5eebcbb4e16ac24339c.png",
+    "index.html": "/Fstore/index.html",
+    "main.3136520f.css.map": "/Fstore/static/css/main.3136520f.css.map",
+    "main.021c8aad.js.map": "/Fstore/static/js/main.021c8aad.js.map",
+    "787.3adb45fa.chunk.js.map": "/Fstore/static/js/787.3adb45fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3136520f.css",
+    "static/js/main.021c8aad.js"
+  ]
+}
