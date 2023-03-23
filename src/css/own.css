@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.banner {
+  width: 100%;
+  height: 100vh;
+  background: url("../asset/images/banner1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner__content {
+  display: flex;
+
+  height: 100vh;
+  margin-top: 1%;
+}
+.Ocontainer {
+  width: 60%;
+  max-width: 65%;
+  margin: 2% auto;
+}
+.Ocontainer h3 {
+  font-size: 2.5rem;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.Ocontainer h1 {
+  font-size: 4rem;
+  line-height: 3.5rem;
+  font-weight: 800;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.Ocontainer p {
+  color: aliceblue;
+}
+.sub_container {
+  width: 45%;
+}
