@@ -13,17 +13,17 @@ import Testimonial from "./component/Testimonial/Testimonial";
 
 function App() {
   return (
-   <div>
-    <Header/>
-    <HeroSlider/>
-    <Home/>
-    <PopularMenu/>
-    <ChooseUs/>
-    <MenuPack/>
-    {/* <Testimonial /> */}
-    <About/>
-    <Footer/>
-   </div>
+    <div>
+      <Header />
+      {/* <HeroSlider/> */}
+      <Home />
+      <PopularMenu />
+      <ChooseUs />
+      <MenuPack />
+      {/* <Testimonial /> */}
+      <About />
+      <Footer />
+    </div>
   );
 }
 

@@ -27,7 +27,7 @@ const MenuPack = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-12 text-center mb-4">
-            <h3 id="menu-title">Our Menu Pack</h3>
+            <h3 id="menu-title">Our Designs</h3>
           </div>
           <div className="col-lg-12 text-center mb-4">
             <button

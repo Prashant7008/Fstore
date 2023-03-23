@@ -1,7 +1,7 @@
 import React from "react";
 import Contact from "./Contact";
 import AS1 from "../asset/image/about-us.png";
-//import "../css/about.css"
+import "../css/about.css";
 const About = () => {
   return (
     <div className="container">
